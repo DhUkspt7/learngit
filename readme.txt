@@ -4,3 +4,4 @@ my catue dorei.
 lotte sama.
 ES6
 babel
+backbone
